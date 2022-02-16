@@ -1,0 +1,164 @@
+[
+ {
+   "year": 1990,
+   "underFive": 93.4,
+   "infant": 64.8,
+   "Neo": 36.8
+ },
+ {
+   "year": 1991,
+   "underFive": 92.1,
+   "infant": 63.9,
+   "Neo": 36.3
+ },
+ {
+   "year": 1992,
+   "underFive": 90.9,
+   "infant": 63.1,
+   "Neo": 35.9
+ },
+ {
+   "year": 1993,
+   "underFive": 89.7,
+   "infant": 62.3,
+   "Neo": 35.4
+ },
+ {
+   "year": 1994,
+   "underFive": 88.7,
+   "infant": 61.4,
+   "Neo": 27.6
+ },
+ {
+   "year": 1995,
+   "underFive": 87.3,
+   "infant": 60.5,
+   "Neo": 34.4
+ },
+ {
+   "year": 1996,
+   "underFive": 85.6,
+   "infant": 59.4,
+   "Neo": 33.7
+ },
+ {
+   "year": 1997,
+   "underFive": 68.7,
+   "infant": 58.2,
+   "Neo": 33.1
+ },
+ {
+   "year": 1998,
+   "underFive": 82.1,
+   "infant": 56.9,
+   "Neo": 32.3
+ },
+ {
+   "year": 1999,
+   "underFive": 79.9,
+   "infant": 55.4,
+   "Neo": 31.5
+ },
+ {
+   "year": 2000,
+   "underFive": 77.5,
+   "infant": 53.9,
+   "Neo": 30.7
+ },
+ {
+   "year": 2001,
+   "underFive": 74.8,
+   "infant": 52.1,
+   "Neo": 29.8
+ },
+ {
+   "year": 2002,
+   "underFive": 72,
+   "infant": 49.1,
+   "Neo": 28.9
+ },
+ {
+   "year": 2003,
+   "underFive": 69.2,
+   "infant": 48.6,
+   "Neo": 28
+ },
+ {
+   "year": 2004,
+   "underFive": 66.7,
+   "infant": 46.9,
+   "Neo": 27.6
+ },
+ {
+   "year": 2005,
+   "underFive": 68.7,
+   "infant": 45.1,
+   "Neo": 26.1
+ },
+ {
+   "year": 2006,
+   "underFive": 61.1,
+   "infant": 43.4,
+   "Neo": 25.3
+ },
+ {
+   "year": 2007,
+   "underFive": 58.5,
+   "infant": 49.1,
+   "Neo": 24.4
+ },
+ {
+   "year": 2008,
+   "underFive": 56.2,
+   "infant": 40.3,
+   "Neo": 23.6
+ },
+ {
+   "year": 2009,
+   "underFive": 53.7,
+   "infant": 38.8,
+   "Neo": 22.9
+ },
+ {
+   "year": 2010,
+   "underFive": 68.7,
+   "infant": 37.4,
+   "Neo": 22.2
+ },
+ {
+   "year": 2011,
+   "underFive": 49.3,
+   "infant": 36,
+   "Neo": 21.5
+ },
+ {
+   "year": 2012,
+   "underFive": 47.3,
+   "infant": 34.7,
+   "Neo": 20.8
+ },
+ {
+   "year": 2013,
+   "underFive": 45.5,
+   "infant": 33.6,
+   "Neo": 20.2
+ },
+ {
+   "year": 2014,
+   "underFive": 43.7,
+   "infant": 49.1,
+   "Neo": 19.6
+ },
+ {
+   "year": 2015,
+   "underFive": 42.2,
+   "infant": 31.4,
+   "Neo": 19.1
+ },
+ {
+   "year": 2016,
+   "underFive": 40.8,
+   "infant": 30.5,
+   "Neo": 18.6
+ }
+]
